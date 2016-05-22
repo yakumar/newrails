@@ -11,6 +11,8 @@ gem 'execjs'
 
 gem 'bootstrap-sass'
 
+gem 'devise'
+
 
 
 gem 'uglifier', '>= 1.3.0'
